@@ -6,3 +6,5 @@ test ssh push
 test pull 
 new branch test
 conflict test master feature1
+running....
+finished
