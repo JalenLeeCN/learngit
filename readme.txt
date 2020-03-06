@@ -5,3 +5,4 @@ git tracks changes of files.
 test ssh push
 test pull 
 new branch test
+conflict test
